@@ -10,7 +10,7 @@ Ten projekt to kompletny pipeline do rozpoznawania kotów i psów na zdjęciach.
 - Testowanie na osobnym zbiorze
 - Wizualizację wyników i predykcji
 
-##Dataset
+## Dataset
 kaggle: 
 https://www.kaggle.com/datasets/salader/dogs-vs-cats?resource=download
 
